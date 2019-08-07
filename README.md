@@ -8,7 +8,7 @@
 5. [如何开通FTP用户](https://www.paypalobjects.com/webstatic/en_US/developer/docs/pdf/PP_LRD_SecureFTP.pdf)
 6. [如何获取每月财务销售报表](https://www.paypalobjects.com/webstatic/en_US/developer/docs/pdf/PP_GenMonthlyStatementReport.pdf)
 7. [如何获取交易明细](https://www.paypalobjects.com/webstatic/en_US/developer/docs/pdf/PP_LRD_Gen_TransactionDetailReport.pdf)
-
+8. [SFTP能下载哪些报表](https://developer.paypal.com/docs/reports/sftp-reports/)
 
 
 ### Reference
